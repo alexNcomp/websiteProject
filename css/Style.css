@@ -1,0 +1,22 @@
+p {
+  font-size: 13px;
+  
+   text-align: center;
+   letter-spacing: 3px;
+   
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  
+}
+
+.img-front{
+	width:940px;
+	height: 500px;
+}
+
+.grid-4-columns{
+  padding-left: 130px;
+  grid-auto-flow: column;
+}
